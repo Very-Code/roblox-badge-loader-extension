@@ -1,5 +1,5 @@
 # roblox-badge-loader-extension
-this is really jank ik its litterally my first attempt at coding javascript so im just proud it works
+An extension to add a load all badges button to roblox experiences. Might be buggy.
 
 
 Chrome: its 5 dollars to upload an extension no way i can afford that
