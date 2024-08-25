@@ -5,7 +5,7 @@ function buttonclick(){
         
         setInterval(function(){
             document.getElementsByClassName("btn-control-md btn-full-width")[0].click();
-        }, 10);
+        }, 300);
         i++
         if (i = 20) {            
             break;
