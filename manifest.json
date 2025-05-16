@@ -10,7 +10,7 @@
 
   "content_scripts": [
     {
-      "matches": ["*://www.roblox.com/games/*"],
+      "matches": ["*://www.roblox.com/*"],
       "js": ["doit.js", "contentscript.js"]
     }
   ],
@@ -18,7 +18,7 @@
   "web_accessible_resources": [
     {
       "resources": ["script.js"],
-      "matches": ["*://www.roblox.com/games/*"]
+      "matches": ["https://www.roblox.com/*"]
     }
   ]
 }
